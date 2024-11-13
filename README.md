@@ -1,2 +1,2 @@
 # google-genAI
-Kaggle Google GenAOU 5-day intensive course
+Kaggle Google GenAI 5-day intensive course
